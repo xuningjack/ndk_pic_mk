@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jackxu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/jackxu/Desktop/+Jack/20161014_Android_JNI_NDK初级/Android_ndk_pic2/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_1a8e17f2e44cacdcd6bef527b5f42c4dcdc7351a.jar" />
+    </item>
+
+</items>

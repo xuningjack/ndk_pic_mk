@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jackxu/Desktop/+Jack/20161014_Android_JNI_NDK初级/Android_ndk_pic2/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/jackxu/Desktop/+Jack/20161014_Android_JNI_NDK初级/Android_ndk_pic2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xuning/Desktop/git/Android_ndk_pic2/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/xuning/Desktop/git/Android_ndk_pic2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]
